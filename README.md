@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on **Ijona services**
 
-- 🌱 I’m currently learning **React Native**
-
-- 🤝 I’m looking for help with **Django,Python**
+- 🌱 I’m currently Working **Django , DjangoRestAPI**
 
 - 📫 How to reach me **roysumitofficial09@gmail.com**
 
